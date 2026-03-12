@@ -1,16 +1,18 @@
-## Hi there 👋
+# Dallin Sprague
 
-<!--
-**DSprague12/DSprague12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dallin Sprague, a student at Brigham Young University-Idaho interested in Computer Science. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm currently learning about Machine Learning and Neural Networks
+- My goals are to make it into Grad School and start some cool research!
+
+## Technologies and Tools
+
+- Proficient in various programming languages
+- Skills: I also love languages in general! I speak Portuguese and am learning Mandarin Chinese!
+
+## Let's Connect!
+
+- Here is my profile https://www.linkedin.com/in/dallinwsprague/
+
