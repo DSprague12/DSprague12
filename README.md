@@ -1,5 +1,5 @@
 # Dallin Sprague 
-
+**[Personal Site / Portfolio](https://dsprague12.github.io/personal-website-dallin/)**  
 I am a high-achieving Computer Science student and AI Engineering minor at Brigham Young University–Idaho, dedicated to building inclusive and intelligent software solutions. My background combines technical development in C#, .NET, and Python with specialized expertise in digital accessibility and risk mitigation.
 
 ## Professional Focus
@@ -48,5 +48,5 @@ Expected Graduation: April 2027.
 ## Let's Connect!
 I am available to work full-time starting September, this fall, 2026. Contact me on my website or LinkedIn below!
 - [LinkedIn](https://www.linkedin.com/in/dallinwsprague/) 
-- [Personal Site/Portfolio](https://dsprague12.github.io/personal-website-dallin/index.html)
-- [GitHub(here)](https://github.com/DSprague12)
+- [Personal Site / Portfolio](https://dsprague12.github.io/personal-website-dallin/)
+- [GitHub (here)](https://github.com/DSprague12)
